@@ -1,0 +1,9 @@
+* trial
+
+A fully-fledged Common Lisp game engine
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/Shirakumo/trial.git |
+| commit  | f9c3428                                    |
+| systems | trial                                      |
+|---------+--------------------------------------------|
