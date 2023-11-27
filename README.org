@@ -5,6 +5,6 @@ A fully-fledged Common Lisp game engine
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shirakumo/trial.git |
-| commit  | bb07b45f                                   |
+| commit  | c1e0bd5d                                   |
 | systems | trial                                      |
 |---------+--------------------------------------------|
