@@ -3,7 +3,7 @@
 A fully-fledged Common Lisp game engine
 
 |---------+--------------------------------------------|
-| source  | git:https://github.com/Shirakumo/trial.git |
+| source  | git:https://codeberg.org/shirakumo/trial.git |
 | commit  | 5629b23d                                   |
 | systems | trial trial-workbench                      |
 |---------+--------------------------------------------|
