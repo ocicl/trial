@@ -4,6 +4,6 @@ A fully-fledged Common Lisp game engine
 
 |---------+----------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/trial.git |
-| commit  | 50eb540f                                     |
+| commit  | e850fdfa                                     |
 | systems | trial trial-workbench                        |
 |---------+----------------------------------------------|
